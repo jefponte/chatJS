@@ -1,0 +1,27 @@
+{
+  "name": "chatjs",
+  "version": "1.0.0",
+  "description": "Ist a chat with Node.JS and Javascript. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefponte/chatJS.git"
+  },
+  "keywords": [
+    "chat",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Jefferson Uchoa Ponte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefponte/chatJS/issues"
+  },
+  "homepage": "https://github.com/jefponte/chatJS#readme",
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
+}
