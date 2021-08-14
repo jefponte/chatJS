@@ -19,6 +19,7 @@
 
         socket.on("server_mensage", receiveMessage);
         function sendMessage(){
+            
             if(event.keyCode === 13 && !event.shiftKey){
                 var name = document.getElementById("name").value;
                 var text = document.getElementById("message").value;
